@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/48c20e7b32cb26783c69581b6982b344/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13bab56171f55b5f22a97629c59c4fbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8e65c57e00e074d904812c23e7e57c37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7fbc9a451212c04c219ba60ee5a84c29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ae1220c411cb488fd4c94fc7dc051ec7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/135e82077d086d846420d8f3b7bb535c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/434528343b9536380ef0a5d811fdd51f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2c489ffc7f06bb8efe68764232135eab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/984d7bba62db676d17f52129137dfb64/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3f6b4f6f9a4579a4b96d7b3646299ab8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1356a4ab39d7cb0fb1477f7bc5d9be6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5d9147c1dca290cace17d70e71ad53b0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/772dc67ceb87d0ba74209ccb57bf844e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/alejandro/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b4588793fb61763bfc1a97bc8efd0f28/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/be4ef65015f76ec470a899e6ea75179c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9947d25c1cefc865e3bc6b6f933e3c3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/91f4891712e796fd935765f3913e11f0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d0b188a9f0df7d931cdc52f08834204/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6e798ad1625cc33e0f18220165552f04/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/772dc67ceb87d0ba74209ccb57bf844e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/772dc67ceb87d0ba74209ccb57bf844e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/alejandro/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b4588793fb61763bfc1a97bc8efd0f28/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/alejandro/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/b4588793fb61763bfc1a97bc8efd0f28/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.awesomeplaces.MainActivity
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/react-native-0.57.1.aar/2d2f8937d82c004072f0251400ed340b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/48c20e7b32cb26783c69581b6982b344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/48c20e7b32cb26783c69581b6982b344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13bab56171f55b5f22a97629c59c4fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13bab56171f55b5f22a97629c59c4fbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8e65c57e00e074d904812c23e7e57c37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8e65c57e00e074d904812c23e7e57c37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7fbc9a451212c04c219ba60ee5a84c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7fbc9a451212c04c219ba60ee5a84c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ae1220c411cb488fd4c94fc7dc051ec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ae1220c411cb488fd4c94fc7dc051ec7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/135e82077d086d846420d8f3b7bb535c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/135e82077d086d846420d8f3b7bb535c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/434528343b9536380ef0a5d811fdd51f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/434528343b9536380ef0a5d811fdd51f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2c489ffc7f06bb8efe68764232135eab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/2c489ffc7f06bb8efe68764232135eab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/984d7bba62db676d17f52129137dfb64/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/984d7bba62db676d17f52129137dfb64/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3f6b4f6f9a4579a4b96d7b3646299ab8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/3f6b4f6f9a4579a4b96d7b3646299ab8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1356a4ab39d7cb0fb1477f7bc5d9be6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/1356a4ab39d7cb0fb1477f7bc5d9be6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5d9147c1dca290cace17d70e71ad53b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5d9147c1dca290cace17d70e71ad53b0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/772dc67ceb87d0ba74209ccb57bf844e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/alejandro/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/772dc67ceb87d0ba74209ccb57bf844e/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/be4ef65015f76ec470a899e6ea75179c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/be4ef65015f76ec470a899e6ea75179c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9947d25c1cefc865e3bc6b6f933e3c3c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9947d25c1cefc865e3bc6b6f933e3c3c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/91f4891712e796fd935765f3913e11f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/91f4891712e796fd935765f3913e11f0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d0b188a9f0df7d931cdc52f08834204/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d0b188a9f0df7d931cdc52f08834204/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6e798ad1625cc33e0f18220165552f04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/alejandro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6e798ad1625cc33e0f18220165552f04/AndroidManifest.xml:20:5-44
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/alejandro/Documents/Node/React-Native/AwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
