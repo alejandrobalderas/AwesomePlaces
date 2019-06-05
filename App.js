@@ -21,8 +21,6 @@ class App extends React.Component {
   };
 
   placeSelectedHandler = key => {
-    console.log(this.props);
-    console.log(this.props.places.name);
     this.props.onSelectPlace(key);
   };
 
